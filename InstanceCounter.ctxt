@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InstanceCounter
+comment0.text=\r\n\ Class\ InstanceCounter\ demonstrates\ the\ use\ of\ the\ "static"\ keyword.\r\n\ \r\n\ @author\ Wolfgang\ Renz,\ HUAS\ \r\n\ @version\ 2017-04-25\r\n
+comment1.params=
+comment1.target=InstanceCounter()
+comment1.text=\r\n\ InstanceCounter\ Default\ Constructor\r\n\ keeps\ it's\ instantiation\ process\ sequence\ number\ as\ instance\ variable\r\n\r\n
+comment2.params=
+comment2.target=int\ getInstanceNumber()
+comment2.text=\r\n\ Method\ getInstanceNumber\r\n\r\n\ @return\ the\ number\ of\ instances\ at\ it's\ own\ instantiation\r\n
+comment3.params=
+comment3.target=int\ numberOfInstances()
+comment3.text=\r\n\ Class\ Method\ number,\ accesses\ to\ class\ variable\r\n\r\n\ @return\ number\ of\ so\ far\ generated\ instances\r\n
+numComments=4
